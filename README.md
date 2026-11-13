@@ -49,4 +49,4 @@ This is an **obfuscated sample dataset**, not confidential data from a live comp
 
 ## 7. Project Files
 - `sql/All_SQL_Queries.sql` – Seven SQL queries with business questions.
-- `reports/Business_Findings.md` – Summary of analysis, findings and recommendations.
+- `reports/Business_Findings.pdf` – Summary of analysis, findings and recommendations.
